@@ -1,0 +1,14 @@
+1. sudo crontab -e
+
+2. add in crontab string:
+	@reboot /home/hjk/github_dump/admin_unix/cron_test.sh
+
+3. save file and exit
+
+4. sudo reboot
+
+5. cat /home/hjk/github_dump/admin_unix/ls_out.txt
+
+6. ls -la /home/hjk/mnt_dir
+
+7. sudo umount /dev/sdb1

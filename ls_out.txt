@@ -1,0 +1,28 @@
+итого 8
+drwxrwxr-x  2 hjk hjk 4096 нояб. 14 16:56 .
+drwxr-xr-x 83 hjk hjk 4096 дек.  12 01:51 ..
+итого 8
+drwxrwxr-x  2 hjk hjk 4096 нояб. 14 16:56 .
+drwxr-xr-x 83 hjk hjk 4096 дек.  12 02:13 ..
+итого 34068
+drwxr-xr-x  2 root root     8192 мая   28  2017 ???
+drwxr-xr-x  2 root root     8192 мая   31  2017 ?????
+drwxr-xr-x 11 root root     8192 янв.   1  1970 .
+drwxr-xr-x 83 hjk  hjk      4096 дек.  12 02:13 ..
+-rwxr-xr-x  1 root root  1992632 июня   1  2017 ?14-501_???????.?.?_??.pdf
+drwxr-xr-x  2 root root     8192 окт.  22 23:46 ???????_7
+drwxr-xr-x  5 root root     8192 окт.  19 10:17 dist_10.26.2014
+-rwxr-xr-x  1 root root   174089 июля  19 13:40 ????????_??????.docx
+drwxr-xr-x  2 root root     8192 мая   30  2017 finall
+-rwxr-xr-x  1 root root   402838 июля  19 23:39 ????????_??????_fin.docx
+-rwxr-xr-x  1 root root 27581967 июля  11 12:15 img579.jpg
+drwxr-xr-x  4 root root     8192 нояб.  6 10:33 labs
+-rwxr-xr-x  1 root root   156801 июня   1  2017 Novy_dokument_2017-06-01-1.jpg
+-rwxr-xr-x  1 root root   138729 июня   1  2017 Novy_dokument_2017-06-01.zip
+-rwxr-xr-x  1 root root  1036238 июля  19 23:38 ????????_??????_?????????.pdf
+-rwxr-xr-x  1 root root  1012202 июля  19 16:40 ????????_??????.pdf
+-rwxr-xr-x  1 root root  1036861 июля  19 23:34 ????????.pdf
+-rwxr-xr-x  1 root root  1220650 мая   29  2017 rspz_first.docx
+drwxr-xr-x  4 root root     8192 нояб. 24 09:14 !sem7
+drwxr-xr-x  2 root root     8192 апр.  10  2017 System Volume Information
+drwxr-xr-x 10 root root     8192 июля   3 09:56 uir
